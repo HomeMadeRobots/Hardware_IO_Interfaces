@@ -5,6 +5,8 @@
 
 /* Event_Interface */
 /* Sent when the configured change occurred on a discrete input pin. */
-typedef void (*Hardware_Interruption_Arised) ( E_IO_Level Pin_Level );
+typedef void (*Hardware_Interruption_Arised) (
+    E_IO_Level Pin_Level,
+    uint32_t Interruption_Timestamp );
 
 #endif

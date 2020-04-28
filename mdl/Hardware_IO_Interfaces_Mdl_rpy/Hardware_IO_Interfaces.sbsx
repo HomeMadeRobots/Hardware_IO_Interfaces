@@ -25,14 +25,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.21.2020::9:55:15</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.28.2020::17:29:58</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">The Hardware_IO_Interfaces package gathers the interfaces allowing to manage input and output pin of an hardware device.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.21.2020::9:55:15</_modifiedTime>
+			<_modifiedTime type="a">4.28.2020::17:29:58</_modifiedTime>
 			<_lastID type="a">8</_lastID>
-			<weakCGTime type="a">4.21.2020::9:55:15</weakCGTime>
+			<weakCGTime type="a">4.28.2020::17:29:58</weakCGTime>
 			<strongCGTime type="a">10.25.2019::7:55:46</strongCGTime>
 			<_defaultComposite type="s">GUID 38862892-069a-4f5e-b2df-aa4cd3471818</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -192,8 +192,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.21.2020::9:55:15</_modifiedTime>
-			<_lastModifiedTime type="a">4.21.2020::9:55:15</_lastModifiedTime>
+			<_modifiedTime type="a">4.28.2020::17:29:58</_modifiedTime>
+			<_lastModifiedTime type="a">4.28.2020::17:29:58</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -965,7 +965,8 @@
 			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<_itemValueOfFontPropertiesMapCount type="a">1</_itemValueOfFontPropertiesMapCount>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGICompartment type="e">
@@ -1421,7 +1422,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.21.2020::9:39:10</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.28.2020::17:29:29</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -1432,9 +1433,9 @@
 				<_text type="a">Sent when the configured change occurred on a discrete input pin.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.21.2020::9:39:10</_modifiedTime>
-			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">4.21.2020::9:39:10</weakCGTime>
+			<_modifiedTime type="a">4.28.2020::17:29:29</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">4.28.2020::17:29:29</weakCGTime>
 			<strongCGTime type="a">4.21.2020::9:39:10</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1443,6 +1444,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 012684fc-b80f-41b5-a36b-ee978b12cf5c</value>
+				<value>GUID aa4e65b7-7f7d-44c2-b09c-bde9913d64d5</value>
 			</AggregatesList>
 		</IClass>
 		<IAttribute type="e">
@@ -1469,6 +1471,41 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hid type="a">GUID 567a8426-dc8b-42fd-a945-49c36bf1b588</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID aa4e65b7-7f7d-44c2-b09c-bde9913d64d5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Interruption_Timestamp</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
+							<_hname type="a">Event_Argument</_hname>
+							<_hid type="a">GUID 7d66c690-e491-496e-a465-ceae11d2b120</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.28.2020::17:29:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.28.2020::17:29:29</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hname type="a">uint32</_hname>
+					<_hid type="a">GUID 3f1b684a-51d5-4374-a479-56bd195faa9e</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>

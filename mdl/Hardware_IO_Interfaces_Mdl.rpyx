@@ -23,12 +23,18 @@
 										<_Name type="a">Settings</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">1</size>
+												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">DisplayMode</_Name>
 													<_Value type="a">Flat</_Value>
 													<_Type type="a">Enum</_Type>
 													<_ExtraTypeInfo type="a">Flat,Meta-class</_ExtraTypeInfo>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">ShowOrder</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
 												</IProperty>
 												
 											</IRPYRawContainer>
@@ -69,8 +75,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Hardware_IO_Interfaces_Mdl</_name>
-			<_modifiedTimeWeak type="a">3.22.2020::19:2:37</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.21.2020::9:37:31</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.28.2020::17:20:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.28.2020::17:25:59</_modifiedTime>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<size type="a">16</size>
